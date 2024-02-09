@@ -28,7 +28,7 @@ public class Ch8_UniqueSubsequence {
 
     public static void main(String[] args) {
 
-        String s = "aaa";
+        String s = "aaa ";
         HashSet<String> set = new HashSet<>();
 
         uniqueSubs(s, 0, "", set);
