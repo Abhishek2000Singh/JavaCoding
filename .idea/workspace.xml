@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73ada2dd-df29-4a2d-9476-dfe52fcb71b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingWithHarshit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq10_SortArrOf01and2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq11_MaxSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq12_SellAndBuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq13_Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq14_LongSuccessiveEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq15_SetMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq16_MatrixRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq17_SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq18_SubarraySumEqualK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq19_PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq1_SecondLarAndSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq20_3SumUniqueTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq21_4Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq22_NumOfSubArrWithXork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq23_MergeOverLapInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq24_MergeSortedArrayWithoutExtraSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq25_FindMissingAndRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq26_CountInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq27_ReversePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq28_MaximumProductSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq2_RemoveDuplicatefrmSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq3_RotateArraybyLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq4_MoveAllZerosToend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq5_UnionOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq6_IntersectionOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq7_FindMissingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq8_MaxConsecOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Pq9_LongestSubArrSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part10_Trie/Ch1_TrieBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part10_Trie/Pq1_WordBreakProb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part10_Trie/Pq2_StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part10_Trie/Pq3_CountUniqueSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part10_Trie/Pq4_LongestWordPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq1_GraphBAsic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq2_Bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq3_DFSOfGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq4_NumberOfProvince.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq5_NumberOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq6_FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq7_RottenOrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq8_DetectCycle_UsingBFS_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Ch1_GraphBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Ch2_WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Ch3_BFS_N_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Ch4_TopoLogicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Ch5_DijkstraAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/NumbWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Po2_IsCyclicUndirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Pq1_AllPathFromSrc_toDes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11_Graph/Pq2_CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_SortingAlgo/Ch2_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_SortingAlgo/Ch3_insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_SortingAlgo/Ch4_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_SortingAlgo/Ch5_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Distance_OFNearestcell_Having1_0Or1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/P6_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq10_PrintPermutation_StringOrArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq11_NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq12_SudokuSollver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq13_MColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq14_KthPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq15_RatInMAze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq1_SumAndFactFirstN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq2_ReverseAnArr_Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq3_FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq4_SubsequenceAndwithSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq5_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq6_CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq7_CombinationSum2_withoutDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq8_SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Pq9_SubsetSum_WithOutDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch10_TotalPathMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch11_PlaceTiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch12_GuestInvite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch12_SubsetOfSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch1_TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch2_PrintReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch3_FirstLastOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch4_CheckIfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch5_MoveAllXtoEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch6_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch7_SubsequenceOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch8_UniqueSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2_Recursion/Ch9_KeyPadCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_BackTracking/Ch1_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_BackTracking/Ch2_NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_BackTracking/Ch3_SodukuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq10_CheckIfPallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq11_Add1_toLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq12_FindIntersectionPtOfYLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq13_FindMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq14_DetectingThe_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq15_FindLEngthOfLOop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq16_deleteTheMiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq17_FindingTheSTartingPointOfLOop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq18_ReverseNodeIn_kthGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq19_RotateLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq1_BasicOFLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq20_MergeTwoSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq21_FlattenAGivenLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq22_CloningOfLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq23_Merge_KSortedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq2_Travesal_InLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq3_deletionInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq4_InsertionOfEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq5_Add2Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq6_OddEvenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq7_Sort01And2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq8_RemoveNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4A_LINKEDlLIST/Pq9_ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq1_BasicOfDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq2_DeletionOfDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq3_InsertionOFDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq4_ReverseDll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq5_DeleteAllOccurenceOfKEy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq6_findPAirWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq7_RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4B_DoubleLinkedList/Pq8_FinaLecture_DesignBrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4_LinkedList/Ch1_LLBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4_LinkedList/Ch2_ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4_LinkedList/Pq1_RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4_LinkedList/Pq2_PallindromeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4_LinkedList/Pq3_FloydAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5_Stack/Ch1_StackBasicByLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5_Stack/Ch2_StackBasicByArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5_Stack/Pq1_PushAtBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6_Queue/Ch1_QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6_Queue/Ch2_UsingCircularArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6_Queue/Ch3_UsingLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6_Queue/Ch4_UsingCollectionFW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6_Queue/Ch5_Using2Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch1_BinaryTreeAndPreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch2_InorderAndPostOrder_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch3_LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch4_CountNSumOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch5_HeightNDiameterOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch6_DiamOfTreeAppr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7_BinaryTree/Ch7_SubtreeOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part8_BinarySearchTree/Ch1_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part8_BinarySearchTree/Ch2_deleteNodeInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part8_BinarySearchTree/PQ1_PrintINRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part8_BinarySearchTree/PQ2_RootToLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Ch1_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Ch2_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Ch3_HashMap2Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Pq1_MajoorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Pq2_Union_IntersectionOf2Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Pq3_FindItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part9_Hashing/Pq4_SubArrSumEqualK.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eBlgD0DlsHBm2sO8lkAr6EPSWU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Ch10_TotalPathMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch1_BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch1_GraphBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch1_LLBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch1_Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch1_TowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch2_InorderAndPostOrder_Traversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch2_SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch3_BFS_N_DFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch3_insertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch4_MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch5_DijkstraAlgo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch5_DijkstraAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch5_QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq11_MaxSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq11_NQueens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq12_FindIntersectionPtOfYLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq13_FindMiddle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq13_MColoring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq14_KthPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq15_RatInMAze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq16_MatrixRotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq17_FindingTheSTartingPointOfLOop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq18_DeleteAllOccurenceOfKEy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq18_ReverseNodeIn_kthGroup.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq19_RotateLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq1_BasicOFLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq1_BasicOfDLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq1_GraphBAsic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq1_SumOfFirstN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq21_4Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq21_FlattenAGivenLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq22_CloningOfLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq23_MergeOverLapInterval (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq23_MergeOverLapInterval.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq24_MergeSortedArrayWithoutExtraSpace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq25_FindMissingAndRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq27_ReversePair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq28_MaximumProductSubArr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq2_Bfs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq2_DeletionOfDLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq2_ReverseAnArr_Pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq2_Travesal_InLL (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq2_Travesal_InLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_DFSOfGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_InsertionOFDLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_RotateArraybyLeft.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_deletionInsertion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq3_deletionInsertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq4_InsertionOfEle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq4_PrintAll_Subsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq4_ReverseDll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq4_SubsequenceAndwithSumK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq5_Add2Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq5_MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq5_NumberOfIsland (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq5_NumberOfIsland.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq6_CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq6_FloodFill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq6_IntersectionOfNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq6_findPAirWithSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq7_CombinationSum2_withoutDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq7_RemoveDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq7_RottenOrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq7_Sort01And2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq8_DetectCycle_UsingBFS_DFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq8_FinaLecture_DesignBrowserHistory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq8_RemoveNthNodeFromEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq8_SubsetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pq9_ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Distance_OFNearestcell_Having1_0Or1">
+    <configuration name="Distance_OFNearestcell_Having1_0Or1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2A_RecursionStriverr.Distance_OFNearestcell_Having1_0Or1" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part2A_RecursionStriverr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pq5_NumberOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq5_NumberOfIsland" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part11A_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pq6_FloodFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq6_FloodFill" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part11A_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pq7_RottenOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq7_RottenOrange" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part11A_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pq8_DetectCycle_UsingBFS_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq8_DetectCycle_UsingBFS_DFS" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part11A_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Distance_OFNearestcell_Having1_0Or1" />
+        <item itemvalue="Application.Pq8_DetectCycle_UsingBFS_DFS" />
+        <item itemvalue="Application.Pq6_FloodFill" />
+        <item itemvalue="Application.Pq7_RottenOrange" />
+        <item itemvalue="Application.Pq5_NumberOfIsland" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ada2dd-df29-4a2d-9476-dfe52fcb71b2" name="Changes" comment="" />
+      <created>1711385964888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711385964888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
