@@ -5,3 +5,4 @@ public class Distance_OFNearestcell_Having1_0Or1 {
 
     }
 }
+
