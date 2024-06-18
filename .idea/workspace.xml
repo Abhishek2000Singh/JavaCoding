@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ada2dd-df29-4a2d-9476-dfe52fcb71b2" name="Changes" comment="" />
+    <list default="true" id="73ada2dd-df29-4a2d-9476-dfe52fcb71b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq10_SurroundedRegion_Replace0withX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq11_NumberOfEnclave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq12_NumberOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq13_BipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part11A_Graph/Pq9_Distance_OFNearestcell_Having1_0Or1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2A_RecursionStriverr/Distance_OFNearestcell_Having1_0Or1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +57,11 @@
     "Application.Ch5_DijkstraAlgo.executor": "Run",
     "Application.Ch5_QuickSort.executor": "Run",
     "Application.Distance_OFNearestcell_Having1_0Or1.executor": "Run",
+    "Application.Pq10_SurroundedRegion_Replace0withX.executor": "Run",
     "Application.Pq11_MaxSubarraySum.executor": "Run",
     "Application.Pq11_NQueens.executor": "Run",
     "Application.Pq12_FindIntersectionPtOfYLL.executor": "Run",
+    "Application.Pq12_NumberOfIsland.executor": "Run",
     "Application.Pq13_FindMiddle.executor": "Run",
     "Application.Pq13_MColoring.executor": "Run",
     "Application.Pq14_KthPermutation.executor": "Run",
@@ -112,16 +122,22 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Distance_OFNearestcell_Having1_0Or1">
-    <configuration name="Distance_OFNearestcell_Having1_0Or1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2A_RecursionStriverr.Distance_OFNearestcell_Having1_0Or1" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Part11A_Graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pq12_NumberOfIsland">
+    <configuration name="Pq10_SurroundedRegion_Replace0withX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq10_SurroundedRegion_Replace0withX" />
       <module name="CodingWithHarshit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2A_RecursionStriverr.*" />
+          <option name="PATTERN" value="Part11A_Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pq5_NumberOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq5_NumberOfIsland" />
+    <configuration name="Pq12_NumberOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq12_NumberOfIsland" />
       <module name="CodingWithHarshit" />
       <extension name="coverage">
         <pattern>
@@ -155,19 +171,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pq7_RottenOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq7_RottenOrange" />
-      <module name="CodingWithHarshit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Part11A_Graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Pq8_DetectCycle_UsingBFS_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq8_DetectCycle_UsingBFS_DFS" />
       <module name="CodingWithHarshit" />
@@ -181,13 +184,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pq9_Distance_OFNearestcell_Having1_0Or1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part11A_Graph.Pq9_Distance_OFNearestcell_Having1_0Or1" />
+      <module name="CodingWithHarshit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part11A_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Distance_OFNearestcell_Having1_0Or1" />
+        <item itemvalue="Application.Pq12_NumberOfIsland" />
+        <item itemvalue="Application.Pq10_SurroundedRegion_Replace0withX" />
+        <item itemvalue="Application.Pq9_Distance_OFNearestcell_Having1_0Or1" />
         <item itemvalue="Application.Pq8_DetectCycle_UsingBFS_DFS" />
         <item itemvalue="Application.Pq6_FloodFill" />
-        <item itemvalue="Application.Pq7_RottenOrange" />
-        <item itemvalue="Application.Pq5_NumberOfIsland" />
       </list>
     </recent_temporary>
   </component>
